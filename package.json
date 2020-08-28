@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Matt Haggard",
@@ -18,10 +18,10 @@
   "build": {
     "publish": [{
       "provider": "github",
-      "owner": "pre1ude",
+      "owner": "Tw0Team",
       "repo": "electron-updater-example"
     }],
-    "appId": "com.github.pre1ude.electronupdaterexample",
+    "appId": "com.github.Tw0Team.electronupdaterexample",
     "mac": {
       "category": "your.app.category.type",
       "target": [
